@@ -1,0 +1,22 @@
+Input: The number of calories each elf is carrying
+
+Sample Input:
+	1000
+	2000	elf 1
+	3000
+	
+	4000	elf 2
+
+	5000
+	6000	elf 3
+
+	7000
+	8000	elf 4
+	9000
+
+	10000	elf 5
+
+- each number represents the number of calories in an item
+- each set of item (different elves) is separated by a blank line
+
+Write code to find the elf carrying the highest number of calories.
